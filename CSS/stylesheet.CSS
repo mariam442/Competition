@@ -1,9 +1,15 @@
 .navbar{
   background-color: #78ACC1;
 }
+.main-nav{
+  box-shadow: 0px 2px 5px #777;
+}
 body{
   background-color:#ebebe0;
 }
 .navbar-brand{
   font-family: Lucida Handwriting;
+}
+.welcome{
+  background-color: #dedeea;
 }
