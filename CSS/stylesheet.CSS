@@ -13,3 +13,18 @@ body{
 .welcome{
   background-color: #dedeea;
 }
+.col-md{
+  font-size: 60px;
+  color: #330033;
+  font-family: Trebuchet MS;
+}
+.eunoia{
+  color:  #cc00cc
+}
+.btn {
+  background-color: #61678b;
+  font-size: 40px;
+}
+.carousel-item {
+  height: 400px;
+}
