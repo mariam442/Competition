@@ -28,3 +28,17 @@ body{
 .carousel-item {
   height: 400px;
 }
+.icon{
+display: flex;
+padding: auto;
+margin: 0;
+border-radius: 130px;
+background-color: #78ACC1;
+}
+.caption{
+  font-size: 20px;
+  color: #660066;
+  font-weight: bold;
+  font-family: Trebuchet MS;
+
+}
