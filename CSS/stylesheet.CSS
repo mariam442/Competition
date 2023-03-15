@@ -47,3 +47,10 @@ body{
   transition: 0.6s ease;
 
 }
+.details{
+  text-align: justify;
+  text-justify: inter-word;
+  color: #61678B;
+  font-weight: bold;
+  font-family: helvetica;
+}
