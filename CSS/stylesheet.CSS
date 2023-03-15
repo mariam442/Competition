@@ -54,3 +54,24 @@ body{
   font-weight: bold;
   font-family: helvetica;
 }
+.photo{
+  border-top-left-radius: 133px;
+}
+.col{
+  background-color: #bcb9d8;
+}
+.leaders, .join{
+  font-size: 37px;
+  color: #660066;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+}
+.join{
+  text-decoration: underline #98bfd0;
+}
+.join:hover{
+  color: #78acc1
+}
+.bhere{
+  background-color: #78acc1;
+}
