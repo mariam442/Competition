@@ -75,3 +75,8 @@ body{
 .bhere{
   background-color: #78acc1;
 }
+h1{
+  text-align: center;
+  color: #330033;
+  font-family: monospace;
+}
