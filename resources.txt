@@ -1,0 +1,23 @@
+Carousel photos
+https://unsplash.com/photos/DlkF4-dbCOU
+https://unsplash.com/photos/oMneOBYhJxY
+https://unsplash.com/photos/Bkci_8qcdvQ
+References
+https://www.w3schools.com/default.asp
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+https://stackoverflow.com/
+https://www.tutorialbrain.com/css/css_home/
+https://www.codehim.com/social-media/social-media-buttons-html-code/#google_vignette
+Icons
+https://www.flaticon.com/
+About images
+https://imageio.forbes.com/specials-images/imageserve/610ac8bce529c532749737f3/Female-mentor-working-with-her-younger-female-colleague/960x0.jpg?format=jpg&width=960
+https://images.ctfassets.net/q40b0r0ua0v7/1vLBVK5ZXGDv21uCSf9uXG/74ecc79d63b69bc5dadd758914a9c533/linkedin-sales-solutions-6ie6OjshvWg-unsplash.jpg?fit=fill&w=750
+https://pacfa.org.au/images/PACFA/FAT/Woman%20therapist%20and%20young%20man%20client.jpg
+https://www.mobilize.io/wp-content/uploads/online-community-people-on-laptop.jpeg
+Inspiration
+https://www.mind.org.uk/information-support/tips-for-everyday-living/wellbeing/wellbeing/
+https://www.betterhelp.com/
+https://www.pinterest.com/
+
+          
